@@ -1,0 +1,1 @@
+- [GitLab重置root管理员密码](GitLab之旅/GitLab重置root管理员密码)
