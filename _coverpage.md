@@ -2,11 +2,12 @@
 
 # HY-Blogs
 
-> 记录一下日常开发中遇到的问题以及对应的解决方案
+> 记录一些日常开发中遇到的问题及其解决方案
 
-- 一些很简单、很沙雕的问题
-- 接二连三的犯错
-- 只能记下来细品咯
+- 这些问题很简单也很沙雕～
+- 可能接二连三的犯错～
+- 记下来细品咯～
+- 轻点喷～
 
 <img src="https://img.shields.io/badge/version-v2.0.0-green.svg" data-origin="https://img.shields.io/badge/version-v2.0.0-green.svg" alt=""> 
 <img title="" src="https://img.shields.io/github/stars/hyblogs/hyblogs.github.io" alt=""> 
