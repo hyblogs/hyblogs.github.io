@@ -14,5 +14,3 @@
 
 [GitHub](https://github.com/hyblogs/hyblogs.github.io)
 [Get Started](README)
-
-![color](#f0f0f0)
