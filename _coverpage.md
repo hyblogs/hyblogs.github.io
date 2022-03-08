@@ -2,11 +2,11 @@
 
 # HY-Blogs
 
-> 一个神奇的文档网站生成器。
+> 记录一下日常开发中遇到的问题以及对应的解决方案
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+- 一些很简单的问题
+- 接二连三的犯错
+- 只能记下来细品咯
 
 <img src="https://img.shields.io/badge/version-v2.0.0-green.svg" data-origin="https://img.shields.io/badge/version-v2.0.0-green.svg" alt=""> 
 <img title="" src="https://img.shields.io/github/stars/hyblogs/hyblogs.github.io" alt=""> 
