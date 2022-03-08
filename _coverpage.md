@@ -10,8 +10,8 @@
 - 轻点喷～
 
 <img src="https://img.shields.io/badge/version-v2.0.0-green.svg" data-origin="https://img.shields.io/badge/version-v2.0.0-green.svg" alt=""> 
-<img title="" src="https://img.shields.io/github/stars/hyblogs/hyblogs.github.io" alt=""> 
-<img src="https://img.shields.io/github/forks/Proberen/xiaozhang_java" data-origin="https://img.shields.io/github/forks/Proberen/xiaozhang_java" alt="">
+<img title="" src="https://img.shields.io/github/stars/hyblogs/hyblogs.github.io" data-origin="https://img.shields.io/github/stars/hyblogs/hyblogs.github.io" alt=""> 
+<img title="" src="https://img.shields.io/github/forks/hyblogs/hyblogs.github.io" data-origin="https://img.shields.io/github/forks/hyblogs/hyblogs.github.io" alt="">
 
 [GitHub](https://github.com/hyblogs/hyblogs.github.io)
 [Get Started](README)
