@@ -2,3 +2,4 @@
 - [CentOS7安装GitLab私服](git-svn/CentOS7%E5%AE%89%E8%A3%85GitLab%E7%A7%81%E6%9C%8D)
 - [GitLab重置root管理员密码](git-svn/GitLab重置root管理员密码)
 - [Gitlab配置邮件发送服务](git-svn/Gitlab配置邮件发送服务)
+- [Git更改本地分支与远程分支的映射关系](git-svn/Git更改本地分支与远程分支的映射关系)
